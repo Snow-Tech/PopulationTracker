@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "ID Nation": "01000US",
+      "Nation": "United States",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 331097593,
+      "Slug Nation": "united-states"
+    }
+  ],
+  "source": [
+    {
+      "measures": [
+        "Population"
+      ],
+      "annotations": {
+        "source_name": "Census Bureau",
+        "source_description": "The American Community Survey (ACS) is conducted by the US Census and sent to a portion of the population every year.",
+        "dataset_name": "ACS 5-year Estimate",
+        "dataset_link": "http://www.census.gov/programs-surveys/acs/",
+        "table_id": "B01003",
+        "topic": "Diversity",
+        "subtopic": "Demographics"
+      },
+      "name": "acs_yg_total_population_5",
+      "substitutions": []
+    }
+  ]
+}

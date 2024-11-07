@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 5028092,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 734821,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 7172282,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2022,
+      "Year": "2022",
+      "Population": 3018669,
+      "Slug State": "arkansas"
+    }
+  ],
+  "source": [
+    {
+      "measures": [
+        "Population"
+      ],
+      "annotations": {
+        "source_name": "Census Bureau",
+        "source_description": "The American Community Survey (ACS) is conducted by the US Census and sent to a portion of the population every year.",
+        "dataset_name": "ACS 5-year Estimate",
+        "dataset_link": "http://www.census.gov/programs-surveys/acs/",
+        "table_id": "B01003",
+        "topic": "Diversity",
+        "subtopic": "Demographics"
+      },
+      "name": "acs_yg_total_population_5",
+      "substitutions": []
+    }
+  ]
+}
